@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"date",
+				"date"
+			],
+			[
+				"date_default",
+				"date_default_timezone_set"
+			],
+			[
 				"mysq",
 				"mysql_query"
 			],
@@ -59,19 +67,25 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 46,
+				"buffer_size": 97,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<?php include 'database.php'; ?>\n<?php \n\n//Create Database query\n  $query= \"SELECT * FROM shouts\";\n  $shouts= mysqli_query($con, $query);\n  ?>\n\n\n<!DOCTYPE html>\n<html lang=\"de\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css\" integrity=\"sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB\" crossorigin=\"anonymous\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">\n    <title><h1>Sag's BOX</h1></title>\n  </head>\n  <header><h1>Sag's Box</h1></header>\n  <body>\n  \t<div class=\"container\">\n  \t\t<ul id=\"shouts\">\n        <?php while($row= mysqli_fetch_assoc($shouts)):\n                   ?>\n\n  \t\t\t<li class=\"shoutit\"><span><?php echo $row['time'] ?>: <strong><?php echo $row['user'] ?> - </strong></span><?php echo $row['msg']?></li>\n      <?php endwhile ?>\n  \t\t</ul>\n  \t\t<div id=\"input\">\n  \t\t\t<form method=\"post\" action=\"process.php\"> \n  \t\t\t\t<input type=\"text\" name=\"name\" class=\"name\" placeholder=\"Dein Name\"/>\n  \t\t\t\t\t<br>\n  \t\t\t\t<input type=\"text\" name=\"msg\" class=\"msg\" placeholder=\"Deine Nachricht\"/>\n  \t\t\t\t\t<br>\n  \t\t\t\t<input class=\"btn\" type=\"submit\" name=\"submit\" value=\"Boom\"/>\n  \t\t\t</form>\n  \t\t</div>\n  \t</div>\n  </body>\n</html>",
 			"file": "index.php",
-			"file_size": 1790,
-			"file_write_time": 131740674791871367,
 			"settings":
 			{
-				"buffer_size": 1340,
+				"buffer_size": 1469,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process.php",
+			"settings":
+			{
+				"buffer_size": 767,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -98,6 +112,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
 			[
 				"Snippet: ",
 				"Snippet: html"
@@ -262,6 +280,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"stylesheet",
 			"$action",
 			"get",
 			"getAction",
@@ -286,7 +305,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -295,15 +314,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 46,
+						"buffer_size": 97,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								46,
-								46
+								94,
+								94
 							]
 						],
 						"settings":
@@ -314,7 +333,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -323,15 +342,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1340,
+						"buffer_size": 1469,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								241,
-								241
+								1098,
+								1098
 							]
 						],
 						"settings":
@@ -341,6 +360,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -348,7 +395,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "database.php",
 					"semi_transient": false,
 					"settings":
@@ -360,8 +407,8 @@
 						"selection":
 						[
 							[
-								52,
-								52
+								152,
+								152
 							]
 						],
 						"settings":
@@ -373,7 +420,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

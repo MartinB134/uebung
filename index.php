@@ -27,8 +27,12 @@
       <?php endwhile ?>
   		</ul>
   		<div id="input">
+
+        <?php if(isset($_GET['error'])) :?>
+          <div class="error"> <?php $_GET['error'] ?> </div>
+        <?php endif ?>
   			<form method="post" action="process.php"> 
-  				<input type="text" name="name" class="name" placeholder="Dein Name"/>
+  				<input type="text" name="user" class="user" placeholder="Dein Name"/>
   					<br>
   				<input type="text" name="msg" class="msg" placeholder="Deine Nachricht"/>
   					<br>
