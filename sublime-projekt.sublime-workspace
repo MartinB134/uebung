@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"col-lg",
+				"col-lg-5"
+			],
+			[
+				"text-",
+				"text-center"
+			],
+			[
+				"Margin",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"day",
+				"dayOfWeek"
+			],
+			[
+				"Da",
+				"datetimediff"
+			],
+			[
+				"l",
+				"solid"
+			],
+			[
+				"b",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"autosave",
+				"Toggle AutoSave: current file only"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"git commit",
+				"git: commit"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"git",
+				"GitHubinator"
+			],
+			[
+				"mate",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mata",
+				"Material Theme: Configuration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git op",
+				"github: open repo"
+			],
+			[
+				"gitl",
+				"git: log"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp2/phpMyAdmin/changelog.php",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/apache/logs/access.log",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/index.html",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/ptest/.htaccess",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/ptest/db.sql",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/ptest/index.php",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/Post Übung/index.php",
+		"/c/xampp/php/logs/php_error_log",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/Post Übung/variables.php",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/ptest/.htaccess",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/Post Übung/first.php",
+		"/C/Users/Marti/AppData/Local/Temp/fz3temp-2/error.log.7",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/share/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/library/Contao/Input.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/library/Contao/StringUtil.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/library/Contao/User.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/models/FormModel.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/models/PageModel.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/models/StyleSheetModel.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/core/models/StyleModel.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/files/img/ico/favicon.ico",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/files/kurse/xaluzdnm.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/email.log.6",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/js/5b45d659becc.js",
+		"/C/Users/Marti/Downloads/Save Sule/htdocs_old/sule/kfwuqwof.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/.htacces",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/error.log.9",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/register/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/mootools/simplemodal/kfwuqwof.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/sule/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/config/localconfig.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/dma_elementgenerator/dca/tl_dma_eg_fields.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/css/a6b98d83b759.css",
+		"/C/Users/Marti/Downloads/Save Sule/htdocs/loges/hrumwkd.php",
+		"/C/Users/Marti/AppData/Local/Temp/fz3temp-2/a6b98d83b759.css",
+		"/C/Users/Marti/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Marti/Downloads/Save Sule/htdocs/loges/kfwuqwof.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/js/bb65a4103065.js",
+		"/C/Users/Marti/AppData/Local/Temp/fz3temp-2/40a8f109a32c.css",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/error.log.1",
+		"/C/Users/Marti/AppData/Local/Temp/fz3temp-2/.gitignore",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/email.log.1",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/email.log.2",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/css/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/dma_elementgenerator/DMAElementGeneratorHiddenWidget.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/dma_elementgenerator/dca/tl_dma_eg.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/images/7/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/images/8/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/images/5/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/images/0/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/email.log.7",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/logs/email.log.8",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/composer/browserconfig.xml",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/composer/apple-icon-76x76.png",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/composer/composer.phar",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/xtmembers_fieldeditor/config/autoload.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/repository/.skip",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/listing/config/autoload.ini",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/faq/assets/.htaccess",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/contao/confirm.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/target/target/.gitignore",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/contao/main.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/contao/file.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/initialize.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/contao/install.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/.htaccess",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/oyejorge/less.php/lib/Less/Autoloader.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/oyejorge/less.php/lessc.inc.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/autoload.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/templates/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/files/img/ui-icons_ffffff_256x240.png",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/swiftmailer/swiftmailer/phpunit.xml.dist",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/original/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/composer.lock",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/tinymce4/plugins/image/plugin.min.js",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/dropzone/3.12.0/js/dropzone.min.js",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/js/index.html",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/original/index.html.bak.bak",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/js/999e4b969dd1.js",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/tinymce4/plugins/popelas.php.suspected",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/assets/tinymce4/tinymce.min.js",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/play/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/play/play.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/profil/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/re.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/tecnickcom/tcpdf/config/tcpdf_config.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/bin/pscss",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/favicon_0f1404.ico",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/junkers/sfdyofg.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/loges/hrumwkd.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/cgi-data/global/general.tpl",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/contao/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/bpfofus.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/aontoqm.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/cgi-data/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/cgi-data/verzeichnisschutz/verzeichnisschutz.sqlite",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/junkers/junkers.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/cgi-data/global/index.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/zap_templ9999/lujtten.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/zapgovno/caoonmu.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/iswakaw.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/zap_templ9999/ldnvblo.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/original/assets/js/ctlmeves.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/docs/templow.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/original/assets/fonts/wp-mails.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/check/locale/nl/ieatmxbf.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs_old/img/qroebles.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/leafo/scssphp/xxskocqv.php",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/vendor/leafo/scssphp/scss.inc.php",
+		"/C/Users/Marti/Downloads/view-save.phtml",
+		"/C/Users/Marti/AppData/Local/Temp/77f3544f-22df-4fff-9f49-c0bfb4358317/htdocs/system/modules/sule/templates/mod_course_search.html5",
+		"/C/Users/Marti/AppData/Local/Temp/fz3temp-2/view.phtml",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/css/style.css",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/Datenschutz.html",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/impressum.html",
+		"/C/Users/Marti/Google Drive/Mucona GbR/Source/index.html",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/css/prettyPhoto.css",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/css/bootstrap-grid.css",
+		"/C/Users/Marti/Google Drive/Eigene Projekte/MartinB134.github.io/Gastronomiebetrieb_SundD/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime-projekt.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 936.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
